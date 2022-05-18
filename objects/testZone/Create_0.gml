@@ -1,0 +1,1 @@
+objectCreated = 0;
